@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="red">#f93655</color>
+    <color name="pitch">#faf2eb</color>
 </resources>
